@@ -12,3 +12,7 @@ this is the comment
 where the multiple lines are written 
 */
 
+
+// syntax:
+// for single line comment we use "// "
+// and for multiline comment we use "/*  */"
