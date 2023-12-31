@@ -1,0 +1,14 @@
+.content{
+    height: 100px;
+    width: 25%;
+    color: white;
+
+}
+
+
+/* new class that is not present in the html file  */
+/* but adding it using the js */
+.newClass{
+    background-color: red;
+    font-size: 30px;
+}
